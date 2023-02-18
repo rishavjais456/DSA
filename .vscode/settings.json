@@ -1,7 +1,0 @@
-{
-    "editor.mouseWheelZoom": true,
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "sracurebasic": "c"
-    }
-}

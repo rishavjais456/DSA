@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{           //palindrome
+{
     int n,rem,rev=0,n2;
     printf("enter number to check : ");
     scanf("%d",&n);

@@ -2,7 +2,7 @@
 int main()
 {
     int n,rem,rev=0,n2;
-    printf("enter number to chaeck : ");
+    printf("enter number to check : ");
     scanf("%d",&n);
     n2=n;
     while(n!=0)

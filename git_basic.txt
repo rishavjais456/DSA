@@ -8,11 +8,11 @@ How to checkin code to GITHUB
 7  git commit -m "comment"
 8 git push origin "branch"
 
-go to github(browser)
+go to github(browser)            // comment
 create pull request
 do the code review
 merge the code from broswer
 
 go to terminal
 git checkout master
-git pull
+git pull      

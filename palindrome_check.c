@@ -2,7 +2,7 @@
 int main()
 {  //palindrome
     int n,rem,rev=0,n2;
-    printf("enter number to check : ");
+    printf("enter number to check : ");       //updated
     scanf("%d",&n);
     n2=n;
     while(n!=0)
